@@ -5,5 +5,5 @@ I'm going to show you how to use modern HTML and CSS to create a completely resp
 # Screenshot
 Here we have project screenshot :
 
-[screenshot]([Capture d'écran 2024-02-03 011810](https://github.com/Rayane-45/NFT-Website-/assets/131754025/9436bfc2-72df-4c05-b62d-d7d82100e37e)
+![screenshot](![Capture d'écran 2024-02-03 011810](https://github.com/Rayane-45/NFT-Website-/assets/131754025/9436bfc2-72df-4c05-b62d-d7d82100e37e)
 )
