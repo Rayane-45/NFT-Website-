@@ -6,7 +6,7 @@
 
   <h2 align="center">Responsive NFT Website</h2>
 
- I'm going to show you how to use modern HTML and CSS to create a completely responsive NFT Website with awesome color theme. We'll be using CSS Flexbox, Media queries for our responsive design and CSS  transition for some cool animation effects. This project contains NFT Marketplace, Best Sellers, Guarantee, Footer, Navbar and a Header section😉 <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ I'm going to show you how to use modern HTML and CSS to create a completely responsive NFT Website with awesome color theme. We'll be using CSS Flexbox, Media queries for our responsive design and CSS  transition for some cool animation effects. This project contains NFT Marketplace, Best Sellers, Guarantee, Footer, Navbar and a Header section😉 <br />Responsive for all devices, build using HTML and CSS .
 
   <a href="https://rayane-45.github.io/NFT-Website-/"><strong>➥ Live Demo</strong></a>
 
